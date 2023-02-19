@@ -5,7 +5,6 @@ namespace Tourists
 {
     class Program
     {
-        static List<City> cities = new List<City>();
 
         static void Main(string[] args)
         {
